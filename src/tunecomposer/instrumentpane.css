@@ -1,0 +1,39 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#Piano {
+    -fx-text-fill: pink;
+}
+
+#Harpsichord {
+    -fx-text-fill: black;
+}
+
+#Marimba {
+    -fx-text-fill: green;
+}
+
+#ChurchOrgan {
+    -fx-text-fill: blue;
+}
+
+#Accordion {
+    -fx-text-fill: purple;
+}
+
+#Guitar {
+    -fx-text-fill: orange;
+}
+
+#Violin {
+    -fx-text-fill: darkgray;
+}
+
+#FrenchHorn {
+    -fx-text-fill: brown;
+}
+
+.mainFxmlClass {
+
+}
